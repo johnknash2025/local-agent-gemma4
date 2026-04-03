@@ -356,6 +356,10 @@ ssh johnkhappy@192.168.10.114 "docker run -d --name open-webui --restart always 
 
 ---
 
+## 詳細ドキュメント
+
+- **[Ollama Code 使い方ガイド](docs/ollama-code-guide.md)** — 起動方法・オプション・実行例・エイリアス設定・トラブルシューティング
+
 ## 参考リンク
 
 - [Ollama Code (GitHub)](https://github.com/tcsenpai/ollama-code)
